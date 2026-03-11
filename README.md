@@ -1,12 +1,8 @@
 
-# Çözücüler ⚙️
+# Solvers ⚙️
 
-Bu egzersizde, çözücülerin Lojistik Regresyon modellerinin performansı üzerindeki etkilerini araştıracaksınız.
+In this exercise, we will investigate the effects of solvers on the performance of Logistic Regression models.
 
-❓ Hangi çözücünün:
-- En iyi kesinlik puanını ürettiğini?
-- Yakınsama için en kısa süreyi aldığını?
-
-Egzersizi başlatmak için `Solvers.ipynb` dosyasını `jupyter notebook` ile açın ve talimatları takip edin.
-
-🚀 Sıra sizde!
+❓ Which solver:
+- Produces the best accuracy score?
+- Takes the shortest time to converge?
